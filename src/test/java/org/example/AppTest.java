@@ -15,5 +15,6 @@ public class AppTest
     @Test
     public void test123(){
         System.out.println("123....");
+        System.out.println("dev....");
     }
 }
